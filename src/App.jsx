@@ -553,7 +553,7 @@ const CTA = () => {
               <Button size="lg" className="w-full sm:w-auto">
                 <Download className="mr-2 h-5 w-5" />
                 <a href="https://github.com/Anusara14/video-text-extention" target="_blank" rel="noopener noreferrer">
-                  Download for Chrome - It's Free
+                  Download for Chrome
                 </a>
               </Button>
             </div>
