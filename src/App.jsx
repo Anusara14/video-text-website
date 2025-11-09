@@ -304,7 +304,7 @@ const Hero = () => {
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 gap-12 lg:grid-cols-2 lg:items-center lg:gap-20">
           <div className="text-center lg:text-left">
-            <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl md:text-6xl">
+            <h1 className="text-4xl font-black tracking-tight text-white sm:text-5xl md:text-7xl">
               Stop Pausing.
               <br />
               <span className="text-red-500">Start Copying.</span>
@@ -408,7 +408,7 @@ const Features = () => {
     <section id="features" className="py-20 sm:py-28">
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-extrabold text-white sm:text-4xl">
+          <h2 className="text-3xl font-extrabold text-white sm:text-4xl whitespace-nowrap">
             Everything you need. Nothing you don't.
           </h2>
           <p className="mt-4 text-lg text-neutral-300">
